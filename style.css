@@ -1,0 +1,28 @@
+.row {
+    text-align: center;
+    color: orangered;
+    
+}
+
+.btn{
+    font-weight:bold;
+}
+
+#button-holder {
+    margin: 70px;
+}
+
+.player-giphy {
+    margin: 10px;
+    font-weight:bold;
+}
+
+img{
+    margin: 10px;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
